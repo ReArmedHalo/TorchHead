@@ -1,0 +1,7 @@
+name: TorchHead
+main: com.DustinSchreiber.TorchHead.TorchHead
+version: 1.0
+commands:
+   torch:
+      description: If a torch is in your inventory, a glowstone block will appear and move with you
+      usage: /torch - Toggle torch state
